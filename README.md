@@ -7,7 +7,10 @@ La plataforma de mensajería que salió de las mentes de los hermanos Nikolai y 
 ![image](https://user-images.githubusercontent.com/43693159/137558365-583b6e9a-1e18-424f-83d6-719944281ce4.png)
 
 CASOS DE USO 
-![image](https://user-images.githubusercontent.com/43693159/137569691-29bc4f51-25a5-4352-84bb-b3c490528f10.png)
+- Inicio de sesión en Telegram WEB mediante código
+- Inicio de sesión en Telegram WEB mediante QR
+- Sincronización de contactos
+- Búsqueda de Chat y Mensajes 
 
 
 
