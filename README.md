@@ -7,7 +7,8 @@ La plataforma de mensajería que salió de las mentes de los hermanos Nikolai y 
 ![image](https://user-images.githubusercontent.com/43693159/137558365-583b6e9a-1e18-424f-83d6-719944281ce4.png)
 
 CASOS DE USO 
-![image](https://user-images.githubusercontent.com/43693159/137569636-ad5caf36-fb60-4863-8461-57aa4f7496cb.png)
+![image](https://user-images.githubusercontent.com/43693159/137569691-29bc4f51-25a5-4352-84bb-b3c490528f10.png)
+
 
 
 <h2>REQUERIMIENTO CU_HISTORIA </h2>
