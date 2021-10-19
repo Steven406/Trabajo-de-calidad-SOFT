@@ -11,6 +11,11 @@ CASOS DE USO
 - Inicio de sesión en Telegram WEB mediante QR
 - Sincronización de contactos
 - Búsqueda de Chat y Mensajes 
+- Personalización de cuenta
+- Búsqueda de personas cercanas
+
+![image](https://user-images.githubusercontent.com/43693159/137981243-44899311-49b8-4df3-9102-81fdec1b85f9.png)
+
 
 
 
