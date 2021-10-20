@@ -91,7 +91,15 @@ Telegram permite cambio de pantallas y carga de varias fotos de perfil
 
 ![WhatsApp Image 2021-10-18 at 21 56 22 (1)](https://user-images.githubusercontent.com/79767881/138015145-fdf74b36-4a63-4d19-99e5-8658b3fe09a2.jpeg)
 
+Descripción:
 
+Telegram cuenta con busqueda de personas cercanas que usan el app.
+
+*Criterio de Aceptación: *
+
+-Rango de busqueda hasta 200 metros.
+-Busqueda por afinidad social.
+-Sugerencia de grupos sociales.
 
 ![WhatsApp Image 2021-10-18 at 21 48 16 (2)](https://user-images.githubusercontent.com/79767881/138015174-c103dec8-c34f-4875-8b68-f6c2719badc0.jpeg)
 
