@@ -77,3 +77,14 @@ Permite abrir sesión en la página web de Telegram
 ![WhatsApp Image 2021-10-15 at 6 22 22 PM](https://user-images.githubusercontent.com/61852890/137564011-59e800d9-ee5c-4810-bac3-898466244d68.jpeg)
 
 ![image](https://user-images.githubusercontent.com/61852890/137564045-a8649e05-5ef2-480c-82a8-38e28553230b.png)
+
+
+![WhatsApp Image 2021-10-18 at 21 56 22](https://user-images.githubusercontent.com/79767881/138015125-13377db9-f1d7-4574-a1b3-d9023db67b45.jpeg)
+
+![WhatsApp Image 2021-10-18 at 21 56 22 (1)](https://user-images.githubusercontent.com/79767881/138015145-fdf74b36-4a63-4d19-99e5-8658b3fe09a2.jpeg)
+
+
+![WhatsApp Image 2021-10-18 at 21 48 16 (2)](https://user-images.githubusercontent.com/79767881/138015174-c103dec8-c34f-4875-8b68-f6c2719badc0.jpeg)
+
+![WhatsApp Image 2021-10-18 at 21 48 16 (1)](https://user-images.githubusercontent.com/79767881/138015198-e663dad3-6fde-4cac-b895-57a8d38d6aee.jpeg)
+
