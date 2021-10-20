@@ -1,5 +1,5 @@
 # Trabajo-de-calidad-SOFT
-Análisis de de calidad de un app conocida (TELEGRRAM)
+Análisis de de calidad de un app conocida (TELEGRAM)
 
 Es una aplicación de mensajería instantánea para dispositivos electrónicos lanzada en el año 2013 por los hermanos Nikolái y Pável Dúrov como una alternativa a la aplicación WhatsApp.  Cuenta con más de 500 millones de usuarios activos alrededor del mundo y se destaca por su sistema de seguridad y velocidad al envío de mensajes.
 
