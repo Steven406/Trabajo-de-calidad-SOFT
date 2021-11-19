@@ -11,10 +11,10 @@ CASOS DE USO
 - Búsqueda de Chat y Mensajes 
 - Personalización de cuenta
 - Búsqueda de personas cercanas
-- Guardar mensajes a chat privado
+- Sección de mensajes guardados
 - Organizar chats por carpetas
 
-![image](https://user-images.githubusercontent.com/82691924/142692121-9245a16f-42bd-42d6-9625-1a16fba0f9ad.png)
+![image](https://user-images.githubusercontent.com/82691924/142692316-4d8055c1-974d-464c-a901-0be71b278881.png)
 
 
 
