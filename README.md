@@ -44,6 +44,7 @@ Básicamente, la búsqueda busca de todo, sin que tengas mucho control sobre los
  
 
 <h3> Inicio de sesión en Telegram WEB mediante código </h3>
+
 El inicio de sesión permite abrir en la página web el Telegram del usuario. Se valida mediante el ingreso de un código enviado como mensaje por Telegram al app.
 
 **Criterio de aceptación**
@@ -65,6 +66,7 @@ Permite abrir sesión en la página web de Telegram
 
 
 <h3> Inicio de sesión en Telegram WEB mediante QR </h3>
+
 El inicio de sesión permite abrir en la página web el Telegram del usuario. Se valida mediante el escaneo del código QR.
 
 **Criterio de aceptación**
@@ -72,6 +74,7 @@ El inicio de sesión permite abrir en la página web el Telegram del usuario. Se
 Permite abrir sesión en la página web de Telegram
 
 **PROTOTIPO**
+
 ![image](https://user-images.githubusercontent.com/61852890/137563241-92ce0222-ef21-4afa-96fa-9d607647f102.png)
 
 ![WhatsApp Image 2021-10-15 at 6 22 21 PM](https://user-images.githubusercontent.com/61852890/137564004-d8639508-a3a9-4cf2-a2b8-0f4fad377c47.jpeg)
@@ -80,11 +83,11 @@ Permite abrir sesión en la página web de Telegram
 
 ![image](https://user-images.githubusercontent.com/61852890/137564045-a8649e05-5ef2-480c-82a8-38e28553230b.png)
 
-Descripción:
+**Descripción:**
 
 Telegram permite cambio de pantallas y carga de varias fotos de perfil
 
-*Criterio de Aceptación: *
+**Criterio de Aceptación: **
 
 -Hasta 4 opciones de personalización de pantalla.
 -Configuración de tipo de letra y tamaño
@@ -93,11 +96,11 @@ Telegram permite cambio de pantallas y carga de varias fotos de perfil
 
 ![WhatsApp Image 2021-10-18 at 21 56 22 (1)](https://user-images.githubusercontent.com/79767881/138015145-fdf74b36-4a63-4d19-99e5-8658b3fe09a2.jpeg)
 
-Descripción:
+**Descripción:**
 
 Telegram cuenta con busqueda de personas cercanas que usan el app.
 
-*Criterio de Aceptación: *
+**Criterio de Aceptación: **
 
 -Rango de busqueda hasta 200 metros.
 -Busqueda por afinidad social.
