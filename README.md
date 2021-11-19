@@ -107,7 +107,7 @@ Telegram cuenta con busqueda de personas cercanas que usan el app.
 
 ![WhatsApp Image 2021-10-18 at 21 48 16 (1)](https://user-images.githubusercontent.com/79767881/138015198-e663dad3-6fde-4cac-b895-57a8d38d6aee.jpeg)
 
-<h3> Sección de mensajes guardados </h3>
+<h2> Sección de mensajes guardados </h2>
 
 **Descripción**
 
@@ -124,7 +124,7 @@ Telegram cuenta con busqueda de personas cercanas que usan el app.
 
 ![saved messages](https://user-images.githubusercontent.com/82691924/142686354-b10b3d44-9812-4678-a84b-b0534b6abfb9.jpeg)
 
-<h3> Oragnizar chats por carpetas </h3>
+<h2> Oragnizar chats por carpetas </h2>
 
 **Descripción**
 
