@@ -12,7 +12,7 @@ CASOS DE USO
 - Personalización de cuenta
 - Búsqueda de personas cercanas
 - Guardar mensajes a chat privado
-- Cambio de modo oscuro/claro
+- Organizar chats por carpetas
 
 ![image](https://user-images.githubusercontent.com/43693159/137981243-44899311-49b8-4df3-9102-81fdec1b85f9.png)
 
