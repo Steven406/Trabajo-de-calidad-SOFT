@@ -14,7 +14,7 @@ CASOS DE USO
 - Guardar mensajes a chat privado
 - Organizar chats por carpetas
 
-![image](https://user-images.githubusercontent.com/43693159/137981243-44899311-49b8-4df3-9102-81fdec1b85f9.png)
+![image](https://user-images.githubusercontent.com/82691924/142692121-9245a16f-42bd-42d6-9625-1a16fba0f9ad.png)
 
 
 
