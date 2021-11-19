@@ -110,28 +110,34 @@ Telegram cuenta con busqueda de personas cercanas que usan el app.
 <h3> Sección de mensajes guardados </h3>
 
 **Descripción**
+
 "Chat" únicamente para nosotros mismos. 
 
 **Criterios de aceptación**
+
 - Se pueden reenviar mensajes aquí.
 - Enviar imágenes, videos o cualquier tipo de archivo para almacenarlo.
 - Acceso a este "chat" desde cualquier dispositivo.
 - Utiliza la opción de búsqueda para encontrar rápidamente.
 
 **Prototipo**
+
 ![saved messages](https://user-images.githubusercontent.com/82691924/142686354-b10b3d44-9812-4678-a84b-b0534b6abfb9.jpeg)
 
 <h3> Oragnizar chats por carpetas </h3>
 
 **Descripción**
+
 Permite añadir nuestros chats privados y organizarlos por carpetas para poder encontrarlos con más facilidad.
 
 **Criterios de aceptación**
+
 - Debe tener un nombre.
 - Debe tener por lo menos un chat que puede ser de cualquier tipo, ya sea privado o grupo o etc.
 - Puede modificarse el orden en el que aparecen las carpetas.
 
 **Prototipo**
+
 ![image](https://user-images.githubusercontent.com/82691924/142688443-5e965e0a-797d-4780-87d9-88511764b8e5.png)
 
 ![image](https://user-images.githubusercontent.com/82691924/142688518-3802fdf5-60af-4489-8766-5198c2123536.png)
