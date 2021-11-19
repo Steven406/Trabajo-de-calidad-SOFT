@@ -107,3 +107,36 @@ Telegram cuenta con busqueda de personas cercanas que usan el app.
 
 ![WhatsApp Image 2021-10-18 at 21 48 16 (1)](https://user-images.githubusercontent.com/79767881/138015198-e663dad3-6fde-4cac-b895-57a8d38d6aee.jpeg)
 
+<h3> Sección de mensajes guardados </h3>
+
+**Descripción**
+"Chat" únicamente para nosotros mismos. 
+
+**Criterios de aceptación**
+- Se pueden reenviar mensajes aquí.
+- Enviar imágenes, videos o cualquier tipo de archivo para almacenarlo.
+- Acceso a este "chat" desde cualquier dispositivo.
+- Utiliza la opción de búsqueda para encontrar rápidamente.
+
+**Prototipo**
+![saved messages](https://user-images.githubusercontent.com/82691924/142686354-b10b3d44-9812-4678-a84b-b0534b6abfb9.jpeg)
+
+<h3> Oragnizar chats por carpetas </h3>
+
+**Descripción**
+Permite añadir nuestros chats privados y organizarlos por carpetas para poder encontrarlos con más facilidad.
+
+**Criterios de aceptación**
+- Debe tener un nombre.
+- Debe tener por lo menos un chat que puede ser de cualquier tipo, ya sea privado o grupo o etc.
+- Puede modificarse el orden en el que aparecen las carpetas.
+
+**Prototipo**
+![image](https://user-images.githubusercontent.com/82691924/142688443-5e965e0a-797d-4780-87d9-88511764b8e5.png)
+
+![image](https://user-images.githubusercontent.com/82691924/142688518-3802fdf5-60af-4489-8766-5198c2123536.png)
+
+![image](https://user-images.githubusercontent.com/82691924/142688646-3939c98d-ccb1-49ae-b301-67e2e6ca3b54.png)
+
+![image](https://user-images.githubusercontent.com/82691924/142688706-38fb85f1-2b11-4f57-bb4d-83844e446fd9.png)
+
